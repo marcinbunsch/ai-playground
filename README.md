@@ -1,7 +1,7 @@
-# langchain-playground
+# ai-playground
 
-Various experiments with [langchain](https://github.com/hwchase17/langchain).
+Various experiments with AI technologies.
 
 ## qa-on-docs
 
-This is a simple experiment to see if we can use langchain to answer questions about documentation.
+This is a simple experiment to see if we can use [langchain](https://github.com/hwchase17/langchain) to answer questions about pre-existing documentation.
